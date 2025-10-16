@@ -7,7 +7,7 @@ The main goal is to prepare and standardize data for further analysis, including
 
 ## 📁 Repository Contents
 1. **Code/**
-   - `Assignment1_Jackie.R` → R script performing data preprocessing, feature encoding, outlier detection, and PCA.
+   - `Code.R` → R script performing data preprocessing, feature encoding, outlier detection, and PCA.
 2. **covid.csv**
    - Original dataset used for analysis.
 3. **final_dataset.xlsx**
